@@ -14,6 +14,7 @@ The dataset was provided by Udacity and a copy of it can be found  ![here](Datas
 
 ## Skills and Concepts demonstrated
 - Use of Excel functions such as Xlookup, Index and Match, Unique, Offset
+- Excel Name Range
 - Data validation 
 - Financial reporting
 - Forecasting Modelling and 

@@ -10,7 +10,7 @@ This project is divided into three parts
 3.	Forecast Modelling
 
 ## Data Source 
-The dataset was provided by Udacity and a copy of it can be found  ![here](Dataset)
+The dataset was provided by Udacity and a copy of it can be found  [here](Dataset)
 
 ## Skills and Concepts demonstrated
 - Use of Excel functions such as Xlookup, Index and Match, Unique, Offset
@@ -33,6 +33,6 @@ The dataset was provided by Udacity and a copy of it can be found  ![here](Datas
 
 ## Medium Article
 
-I have explained my approaches to carrying out this project on my medium account. Click ![here](https://medium.com/@raufrukayat/financial-analysis-of-new-york-stock-exchange-data-a-hands-on-excel-project-ef0bd9321c48) to read the walkthrough.
+I have explained my approaches to carrying out this project on my medium account. Click [here](https://medium.com/@raufrukayat/financial-analysis-of-new-york-stock-exchange-data-a-hands-on-excel-project-ef0bd9321c48) to read the walkthrough.
 
  
